@@ -1,0 +1,23 @@
+{
+  "name": "pracatice_react",
+  "version": "1.0.0",
+  "description": "Practicing React",
+  "homepage": "https://github.com/Rani4js/Practice_React#readme",
+  "bugs": {
+    "url": "https://github.com/Rani4js/Practice_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rani4js/Practice_React.git"
+  },
+  "license": "ISC",
+  "author": "Sowmya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
